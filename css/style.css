@@ -1,0 +1,124 @@
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    width: 1100px;
+    height: 1150px;
+}
+
+.container{
+    overflow: hidden;
+    max-height: 1150px;
+}
+
+h4, p,a {
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    margin: 0;
+}
+
+.fa{
+    color: #536363;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #635700;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: #536363;
+    font-size: 1.3em;
+}
+
+
+#kol-1{
+    width: 350px;
+    background-color: #dddddd;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#kol-1 img{
+    width: 80%;
+    border-radius: 50%;
+
+}
+
+#kol-2{
+    position: relative;
+    left: 350px;
+    bottom: 1223px;
+    margin-left: 50px;
+    margin-top: 85px;
+    width: 700px;
+}
+
+
+h1{
+    font-size: 2.5em;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+h1 span{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.kreska{
+    border: 1px solid;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+ul{
+    padding: 3px;
+    padding-left: 20px;
+    margin: 0;
+}
+
+#kol-2 p span{
+    font-weight: 600;
+}
+
+#kol-2 ul li p span{
+    color: gray;
+}
+
+
+
+.skills .umie{
+    display: inline-block;
+    width: 340px;
+}
+
+.skills .umie p{
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.skills .umie p i {
+    font-size: 17px;
+    margin-right: 10px;
+}
+
+
+#kol-2 #eng span{
+    color: black;
+}
+
+
+.zgoda{
+    margin-top: 300px;
+    font-size: 0.9em;
+    color: #536363;
+}
